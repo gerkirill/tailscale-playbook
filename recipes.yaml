@@ -3,7 +3,7 @@ recipes:
     name: Tailscale
     description: Installs Tailscale and connects to the tailnet using the provided auth key
     versions:
-      v1.0:
+      v1.1:
         playbook: playbooks/optional/tailscale-v1.0.yaml
         metadata:
           supported_arch:
